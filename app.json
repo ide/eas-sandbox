@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "EAS Update Sandbox",
-    "slug": "eas-update-sandbox",
+    "name": "EAS Sandbox",
+    "slug": "eas-sandbox",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "eassandbox",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
