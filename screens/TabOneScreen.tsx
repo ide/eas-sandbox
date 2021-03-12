@@ -16,7 +16,7 @@ export default function TabOneScreen() {
           style={[styles.codeHighlightContainer, styles.updateInfo]}
           darkColor="rgba(255,255,255,0.05)"
           lightColor="rgba(0,0,0,0.05)">
-          <MonoText>{manifest}</MonoText>
+          <MonoText>{JSON.stringify(manifest, null, 2)}</MonoText>
         </View>
     </View>
   );
