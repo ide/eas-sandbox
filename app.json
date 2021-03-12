@@ -3,6 +3,7 @@
     "name": "EAS Sandbox",
     "slug": "eas-sandbox",
     "version": "1.0.0",
+    "runtimeVersion": "1",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "eassandbox",
@@ -13,6 +14,7 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
+      "url": "https://updates.expo.dev/cb919565-5b6d-4b87-be31-1d622e11deb2",
       "fallbackToCacheTimeout": 0
     },
     "assetBundlePatterns": [
