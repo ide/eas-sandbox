@@ -2,12 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>EXUpdatesSDKVersion</key>
-    <string>40.0.0</string>
-    <key>EXUpdatesURL</key>
-    <string>https://exp.host/@ide/eas-sandbox</string>
+    <key>EXUpdatesRuntimeVersion</key>
+    <string>1</string>
     <key>EXUpdatesEnabled</key>
     <true/>
+    <key>EXUpdatesURL</key>
+    <string>https://updates.expo.dev/cb919565-5b6d-4b87-be31-1d622e11deb2</string>
+    <key>EXUpdatesUsesLegacyManifest</key>
+    <false/>
     <key>EXUpdatesCheckOnLaunch</key>
     <string>ALWAYS</string>
     <key>EXUpdatesLaunchWaitMs</key>
